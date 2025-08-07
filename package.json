@@ -1,0 +1,19 @@
+{
+  "name": "ademo_about_ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/art1722/ademo_about_ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/art1722/ademo_about_ci/issues"
+  },
+  "homepage": "https://github.com/art1722/ademo_about_ci#readme"
+}
